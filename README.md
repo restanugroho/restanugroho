@@ -6,7 +6,7 @@ I'm a software developer from Indonesia who enjoys building digital products, ex
 
 Currently developing digital products and technology solutions through **PT Yhoiki Digital Nusantara**, while continuously improving my skills in software development.
 
-🌐 [Portfolio](https://restanugroho.my.id) · 💼 [LinkedIn](https://linkedin.com/in/resta-nugroho) · 📧 [Email](mailto:restanugroho21@gmail.com)
+🌐 [Portfolio](https://restanugroho.my.id) · 💼 [LinkedIn](https://www.linkedin.com/in/resta-nugroho-622086325) · 📸 [Instragram](https://instragram.com/kendotion_) · 📧 [Email](mailto:restanugroho21@gmail.com)
 
 ---
 
@@ -105,10 +105,10 @@ Universitas Islam Negeri Salatiga, Indonesia
 I'm always open to learning, collaborating, and building useful products with other people.
 
 🌐 [Portfolio](https://restanugroho.my.id)  
-💼 [LinkedIn](https://linkedin.com/in/resta-nugroho)  
+💼 [LinkedIn](https://linkedin.com/in/resta-nugroho-622086325)  
 📧 [Email](mailto:restanugroho21@gmail.com)  
 🌱 [Yhoiki Community](https://chat.whatsapp.com/IWwp8JBaGHN1am1qzm2VYT)
 
 <p align="center">
-  <i>Build things. Learn along the way. Keep improving.</i>
+  <i>Beyond Limits, Beyond Imaginations.</i>
 </p>

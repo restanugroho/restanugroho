@@ -4,7 +4,7 @@
 
 I'm a software developer from Indonesia who enjoys building digital products, exploring new technologies, and turning ideas into real projects.
 
-Currently developing digital products and technology solutions through **PT Yhoiki Digital Nusantara**, while continuously improving my skills in software development.
+Currently developing digital products and technology solutions through **PT Yhoiki Digital Nusantara**, while continuously improving my skills in software development and design.
 
 🌐 [Portfolio](https://restanugroho.my.id) · 💼 [LinkedIn](https://www.linkedin.com/in/resta-nugroho-622086325) · 📸 [Instagram](https://www.instagram.com/kendotion_) · 📧 [Email](mailto:restanugroho21@gmail.com)
 
@@ -69,7 +69,6 @@ My contributions include:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 **AI Tools & Development Workflow**
 
@@ -81,6 +80,18 @@ My contributions include:
 - **AI-Augmented Software Development** — Integrating AI into the software development workflow.
 - **AI-Assisted Debugging** — Using AI to identify issues and troubleshoot code.
 
+**Design & Creative Tools**
+
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+
+- Graphic design and visual branding
+- UI/UX design and prototyping
+- Video editing and visual content creation
+
 ---
 
 ## 🧠 Currently Exploring
@@ -89,7 +100,7 @@ My contributions include:
 - Blockchain and Web3 technologies
 - Software architecture, testing, and deployment
 
-I continuously explore new ways to build reliable software and integrate AI into practical development workflows.
+I continuously explore new ways to build reliable software, integrate AI into practical development workflows, and create better digital experiences.
 
 ---
 

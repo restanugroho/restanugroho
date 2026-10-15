@@ -6,7 +6,7 @@ I'm a software developer from Indonesia who enjoys building digital products, ex
 
 Currently developing digital products and technology solutions through **PT Yhoiki Digital Nusantara**, while continuously improving my skills in software development.
 
-🌐 [Portfolio](https://restanugroho.my.id) · 💼 [LinkedIn](https://www.linkedin.com/in/resta-nugroho-622086325) · 📸 [Instragram](https://instragram.com/kendotion_) · 📧 [Email](mailto:restanugroho21@gmail.com)
+🌐 [Portfolio](https://restanugroho.my.id) · 💼 [LinkedIn](https://www.linkedin.com/in/resta-nugroho-622086325) · 📸 [Instagram](https://www.instagram.com/kendotion_) · 📧 [Email](mailto:restanugroho21@gmail.com)
 
 ---
 
@@ -71,6 +71,16 @@ My contributions include:
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+**AI Tools & Development Workflow**
+
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+- **AI-Assisted Development** — Using AI to build features and develop applications.
+- **AI-Augmented Software Development** — Integrating AI into the software development workflow.
+- **AI-Assisted Debugging** — Using AI to identify issues and troubleshoot code.
+
 ---
 
 ## 🧠 Currently Exploring
@@ -79,7 +89,7 @@ My contributions include:
 - Blockchain and Web3 technologies
 - Software architecture, testing, and deployment
 
-I also use AI coding tools to support development, debugging, and problem-solving.
+I continuously explore new ways to build reliable software and integrate AI into practical development workflows.
 
 ---
 
@@ -105,7 +115,8 @@ Universitas Islam Negeri Salatiga, Indonesia
 I'm always open to learning, collaborating, and building useful products with other people.
 
 🌐 [Portfolio](https://restanugroho.my.id)  
-💼 [LinkedIn](https://linkedin.com/in/resta-nugroho-622086325)  
+💼 [LinkedIn](https://www.linkedin.com/in/resta-nugroho-622086325)  
+📸 [Instagram](https://www.instagram.com/kendotion_)  
 📧 [Email](mailto:restanugroho21@gmail.com)  
 🌱 [Yhoiki Community](https://chat.whatsapp.com/IWwp8JBaGHN1am1qzm2VYT)
 
